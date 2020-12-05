@@ -1,0 +1,15 @@
+
+2.7, 3.1416, 0.2, etc. 
+una de los numeros concatenados i++ y i--
+<	menor que	a<b	a es menor que b
+>	mayor que	a>b	a es mayor que b
+==	igual a	a==b	a es igual a b
+!=	no igual a	a!=b	a no es igual a b
+<=	menor que o igual a	a<=5	a es menor que o igual a b
+>=	mayor que o igual a	a>=b	a es menor que o igual a b
+acumulador += valor, acumulador = acumulador + valor
+and as assert break class continue def del elif else except exec finally for from global if import in is lambda not or pass print raise return try while with yield
+[\+\-\*\/\%]
+2+9, 45+78, 45 + 89, 45678 + 87987 
+12-656, 45 - 784654
+i++
